@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "Block chain"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "ML"
+    },
+    {
+      "id": 3,
+      "checked": true,
+      "item": "DL"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "AI"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "afa"
+    },
+    {
+      "id": 6,
+      "checked": false,
+      "item": "e"
+    },
+    {
+      "id": 7,
+      "checked": false,
+      "item": "Git"
+    },
+    {
+      "id": 8,
+      "checked": false,
+      "item": "deepan"
+    },
+    {
+      "id": 9,
+      "checked": false,
+      "item": "hello"
+    }
+  ]
+}
